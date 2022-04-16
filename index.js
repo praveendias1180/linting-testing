@@ -1,5 +1,5 @@
 const test = 'I am a test';
-console.error(`Test: ${test}`)
+console.error(`Test: ${test}`) // eslint-disable-line
 const test2 = 'Another one.';
 
 /* eslint-disable no-alert, no-console */
