@@ -9,3 +9,9 @@ npm init @eslint/config
 # Linting with ESLint
 
 ![Errors](eslint-errors.png)
+
+# Auto --fix the errors
+
+```
+npx eslint --fix index.js
+```
